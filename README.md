@@ -11,15 +11,12 @@ A lightweight Bash script for real-time Linux system monitoring and resource usa
 ## Requirements
 - Linux OS
 - Bash shell
-- Standard utilities: `top`, `free`, `df`, `ps`, `awk`, `grep`
+- Standard utilities: top, free, df, ps, awk, grep
 
 ## Usage
 
-```bash
-chmod +x system-monitor.sh
-./system-monitor.sh
-```
+chmod +x statscheck.sh
+./statscheck.sh
 
 ## Description
 This project uses basic Linux commands to generate a quick system health report directly from the terminal.
-```
