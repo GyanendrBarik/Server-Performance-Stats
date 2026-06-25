@@ -1,6 +1,8 @@
 # Server-Performance-Stats
 A lightweight Bash script for real-time Linux system monitoring and resource usage reporting.
 
+Project URL: https://github.com/GyanendrBarik/Server-Performance-Stats
+
 ## Features
 - System uptime info
 - CPU usage summary
